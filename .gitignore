@@ -177,3 +177,4 @@ tags
 # wandb
 wandb
 workspace/script-CPU/onnx-models/
+workspace/script-CPU/onnx-models.tar
